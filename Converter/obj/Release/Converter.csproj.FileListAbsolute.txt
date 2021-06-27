@@ -1,0 +1,46 @@
+C:\Users\acarbonell\source\repos\Converter\Converter\bin\Release\converter.exe.config
+C:\Users\acarbonell\source\repos\Converter\Converter\bin\Release\converter.exe
+C:\Users\acarbonell\source\repos\Converter\Converter\bin\Release\converter.pdb
+C:\Users\acarbonell\source\repos\Converter\Converter\obj\Release\Converter.csprojResolveAssemblyReference.cache
+C:\Users\acarbonell\source\repos\Converter\Converter\obj\Release\converter.Form1.resources
+C:\Users\acarbonell\source\repos\Converter\Converter\obj\Release\converter.Properties.Resources.resources
+C:\Users\acarbonell\source\repos\Converter\Converter\obj\Release\Converter.csproj.GenerateResource.cache
+C:\Users\acarbonell\source\repos\Converter\Converter\obj\Release\Converter.csproj.CoreCompileInputs.cache
+C:\Users\acarbonell\source\repos\Converter\Converter\obj\Release\converter.exe
+C:\Users\acarbonell\source\repos\Converter\Converter\obj\Release\converter.pdb
+H:\Documents\Visual Studio 2019\Projects\converter\Converter\bin\Release\converter.exe.config
+H:\Documents\Visual Studio 2019\Projects\converter\Converter\bin\Release\converter.exe
+H:\Documents\Visual Studio 2019\Projects\converter\Converter\bin\Release\converter.pdb
+H:\Documents\Visual Studio 2019\Projects\converter\Converter\obj\Release\Converter.csprojAssemblyReference.cache
+H:\Documents\Visual Studio 2019\Projects\converter\Converter\obj\Release\converter.Form1.resources
+H:\Documents\Visual Studio 2019\Projects\converter\Converter\obj\Release\converter.Properties.Resources.resources
+H:\Documents\Visual Studio 2019\Projects\converter\Converter\obj\Release\Converter.csproj.GenerateResource.cache
+H:\Documents\Visual Studio 2019\Projects\converter\Converter\obj\Release\Converter.csproj.CoreCompileInputs.cache
+H:\Documents\Visual Studio 2019\Projects\converter\Converter\obj\Release\converter.exe
+H:\Documents\Visual Studio 2019\Projects\converter\Converter\obj\Release\converter.pdb
+H:\Documents\Visual Studio 2019\Projects\converter\Converter\obj\Release\converter.wait.resources
+H:\Documents\Visual Studio 2019\Projects\converter\Converter\obj\Release\converter.Resource1.resources
+Z:\Code\Visual Studio\converter\Converter\bin\Release\converter.exe.config
+Z:\Code\Visual Studio\converter\Converter\bin\Release\converter.exe
+Z:\Code\Visual Studio\converter\Converter\bin\Release\converter.pdb
+Z:\Code\Visual Studio\converter\Converter\obj\Release\Converter.csprojAssemblyReference.cache
+Z:\Code\Visual Studio\converter\Converter\obj\Release\converter.Form1.resources
+Z:\Code\Visual Studio\converter\Converter\obj\Release\converter.wait.resources
+Z:\Code\Visual Studio\converter\Converter\obj\Release\converter.Properties.Resources.resources
+Z:\Code\Visual Studio\converter\Converter\obj\Release\converter.Resource1.resources
+Z:\Code\Visual Studio\converter\Converter\obj\Release\Converter.csproj.GenerateResource.cache
+Z:\Code\Visual Studio\converter\Converter\obj\Release\Converter.csproj.CoreCompileInputs.cache
+Z:\Code\Visual Studio\converter\Converter\obj\Release\converter.exe
+Z:\Code\Visual Studio\converter\Converter\obj\Release\converter.pdb
+E:\Users\adam\source\repos\converter\Converter\bin\Release\converter.exe.config
+E:\Users\adam\source\repos\converter\Converter\bin\Release\converter.exe
+E:\Users\adam\source\repos\converter\Converter\bin\Release\converter.pdb
+E:\Users\adam\source\repos\converter\Converter\obj\Release\Converter.csprojAssemblyReference.cache
+E:\Users\adam\source\repos\converter\Converter\obj\Release\converter.Form1.resources
+E:\Users\adam\source\repos\converter\Converter\obj\Release\converter.wait.resources
+E:\Users\adam\source\repos\converter\Converter\obj\Release\converter.Properties.Resources.resources
+E:\Users\adam\source\repos\converter\Converter\obj\Release\converter.Resource1.resources
+E:\Users\adam\source\repos\converter\Converter\obj\Release\Converter.csproj.GenerateResource.cache
+E:\Users\adam\source\repos\converter\Converter\obj\Release\Converter.csproj.CoreCompileInputs.cache
+E:\Users\adam\source\repos\converter\Converter\obj\Release\converter.exe
+E:\Users\adam\source\repos\converter\Converter\obj\Release\converter.pdb

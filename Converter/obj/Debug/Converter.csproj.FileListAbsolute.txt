@@ -1,0 +1,12 @@
+E:\Users\adam\source\repos\converter\Converter\bin\Debug\converter.exe.config
+E:\Users\adam\source\repos\converter\Converter\bin\Debug\converter.exe
+E:\Users\adam\source\repos\converter\Converter\bin\Debug\converter.pdb
+E:\Users\adam\source\repos\converter\Converter\obj\Debug\Converter.csprojAssemblyReference.cache
+E:\Users\adam\source\repos\converter\Converter\obj\Debug\converter.Form1.resources
+E:\Users\adam\source\repos\converter\Converter\obj\Debug\converter.wait.resources
+E:\Users\adam\source\repos\converter\Converter\obj\Debug\converter.Properties.Resources.resources
+E:\Users\adam\source\repos\converter\Converter\obj\Debug\converter.Resource1.resources
+E:\Users\adam\source\repos\converter\Converter\obj\Debug\Converter.csproj.GenerateResource.cache
+E:\Users\adam\source\repos\converter\Converter\obj\Debug\Converter.csproj.CoreCompileInputs.cache
+E:\Users\adam\source\repos\converter\Converter\obj\Debug\converter.exe
+E:\Users\adam\source\repos\converter\Converter\obj\Debug\converter.pdb
