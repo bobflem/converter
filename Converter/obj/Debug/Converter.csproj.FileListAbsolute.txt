@@ -10,3 +10,4 @@ E:\Users\adam\source\repos\converter\Converter\obj\Debug\Converter.csproj.Genera
 E:\Users\adam\source\repos\converter\Converter\obj\Debug\Converter.csproj.CoreCompileInputs.cache
 E:\Users\adam\source\repos\converter\Converter\obj\Debug\converter.exe
 E:\Users\adam\source\repos\converter\Converter\obj\Debug\converter.pdb
+E:\Users\adam\source\repos\converter\Converter\obj\Debug\converter.csproj.AssemblyReference.cache

@@ -42,7 +42,7 @@ namespace converter
             try
             {
                 Process proc = new Process();
-                proc.StartInfo.FileName = Globals.tempFolder + "ffmpeg.exe";
+                proc.StartInfo.FileName = Globals.ffmpegFolder + "ffmpeg.exe";
                 proc.StartInfo.Arguments = "-i \"" + textBox1.Text + "\" -map_metadata 0 -id3v2_version 3 \"" + Path.GetDirectoryName(textBox1.Text) + "\\" + Path.GetFileNameWithoutExtension(textBox1.Text) + "." + comboBox1.Text.ToLower() + "\"";
                 proc.Start();
                 proc.WaitForExit();
@@ -52,10 +52,10 @@ namespace converter
                 MessageBox.Show("Error: \n" + ex.ToString(), "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 try
                 {
-                    Directory.Delete(Globals.tempFolder, true);
+                    Directory.Delete(Globals.ffmpegFolder, true);
                 }
                 catch (Exception) {
-                    MessageBox.Show("Please delete this folder: " + Globals.tempFolder, "Error deleting temp folder",MessageBoxButtons.OK,MessageBoxIcon.Error);
+                    MessageBox.Show("Please delete this folder: " + Globals.ffmpegFolder, "Error deleting temp folder",MessageBoxButtons.OK,MessageBoxIcon.Error);
                 }
                 Environment.Exit(4);
             }

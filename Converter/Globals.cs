@@ -10,7 +10,7 @@ namespace converter
 {
     public class Globals
     {
-        public static string tempFolder = Path.GetTempPath() + @"ffmpeg\";
+        public static string ffmpegFolder = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData), @"converter_ffmpeg\");
 
         public static wait _waitForm;
 

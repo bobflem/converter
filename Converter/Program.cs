@@ -19,11 +19,11 @@ namespace converter
 		{
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            if (!Directory.Exists(Globals.tempFolder))
+            if (!Directory.Exists(Globals.ffmpegFolder))
             {
                 try
                 {
-                    Directory.CreateDirectory(Globals.tempFolder);
+                    Directory.CreateDirectory(Globals.ffmpegFolder);
                 }
                 catch (Exception e)
                 {
@@ -36,27 +36,27 @@ namespace converter
                     string link = "https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.zip";
                     using (var wclient = new WebClient())
                     {
-                        wclient.DownloadFile(link, Globals.tempFolder + "ffmpeg.zip");
+                        wclient.DownloadFile(link, Globals.ffmpegFolder + "ffmpeg.zip");
                     }
-                    using (ZipArchive archive = ZipFile.OpenRead(Globals.tempFolder + "ffmpeg.zip"))
+                    using (ZipArchive archive = ZipFile.OpenRead(Globals.ffmpegFolder + "ffmpeg.zip"))
                     {
                         foreach (ZipArchiveEntry entry in archive.Entries.Where(e => e.FullName.Contains("ffmpeg.exe")))
                         {
-                            entry.ExtractToFile(Globals.tempFolder + "ffmpeg.exe");
+                            entry.ExtractToFile(Globals.ffmpegFolder + "ffmpeg.exe");
                         }
                     }
-                    File.Delete(Globals.tempFolder + "ffmpeg.zip");
+                    File.Delete(Globals.ffmpegFolder + "ffmpeg.zip");
                     Globals.OnLoaded();
                 }
                 catch (Exception e)
                 {
                     try
                     {
-                        Directory.Delete(Globals.tempFolder);
+                        Directory.Delete(Globals.ffmpegFolder);
                     }
                     catch (Exception)
                     {
-                        MessageBox.Show("Error downloading ffmpeg. Please delete the ffmpeg folder located at:\r" + Globals.tempFolder + "Debug:\r" + e.ToString(), "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        MessageBox.Show("Error downloading ffmpeg. Please delete the ffmpeg folder located at:\r" + Globals.ffmpegFolder + "Debug:\r" + e.ToString(), "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                         Environment.Exit(1);
                     }
                     MessageBox.Show("Error downloading ffmpeg. Debug:\r" + e.ToString(), "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
