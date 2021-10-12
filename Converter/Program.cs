@@ -34,10 +34,8 @@ namespace converter
                 {
                     Globals.ShowWaitForm();
                     string link = "https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.zip";
-                    using (var wclient = new WebClient())
-                    {
-                        wclient.DownloadFile(link, Globals.ffmpegFolder + "ffmpeg.zip");
-                    }
+                    WebClient webClient = new WebClient();
+                    webClient.DownloadFile(link, Globals.ffmpegFolder + "ffmpeg.zip");
                     using (ZipArchive archive = ZipFile.OpenRead(Globals.ffmpegFolder + "ffmpeg.zip"))
                     {
                         foreach (ZipArchiveEntry entry in archive.Entries.Where(e => e.FullName.Contains("ffmpeg.exe")))
@@ -45,6 +43,7 @@ namespace converter
                             entry.ExtractToFile(Globals.ffmpegFolder + "ffmpeg.exe");
                         }
                     }
+
                     File.Delete(Globals.ffmpegFolder + "ffmpeg.zip");
                     Globals.OnLoaded();
                 }

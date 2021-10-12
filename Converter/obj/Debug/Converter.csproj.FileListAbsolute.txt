@@ -11,3 +11,15 @@ E:\Users\adam\source\repos\converter\Converter\obj\Debug\Converter.csproj.CoreCo
 E:\Users\adam\source\repos\converter\Converter\obj\Debug\converter.exe
 E:\Users\adam\source\repos\converter\Converter\obj\Debug\converter.pdb
 E:\Users\adam\source\repos\converter\Converter\obj\Debug\converter.csproj.AssemblyReference.cache
+D:\Users\adam\Source\Repos\converter\Converter\bin\Debug\converter.exe.config
+D:\Users\adam\Source\Repos\converter\Converter\bin\Debug\converter.exe
+D:\Users\adam\Source\Repos\converter\Converter\bin\Debug\converter.pdb
+D:\Users\adam\Source\Repos\converter\Converter\obj\Debug\Converter.csproj.AssemblyReference.cache
+D:\Users\adam\Source\Repos\converter\Converter\obj\Debug\converter.Form1.resources
+D:\Users\adam\Source\Repos\converter\Converter\obj\Debug\converter.wait.resources
+D:\Users\adam\Source\Repos\converter\Converter\obj\Debug\converter.Properties.Resources.resources
+D:\Users\adam\Source\Repos\converter\Converter\obj\Debug\converter.Resource1.resources
+D:\Users\adam\Source\Repos\converter\Converter\obj\Debug\Converter.csproj.GenerateResource.cache
+D:\Users\adam\Source\Repos\converter\Converter\obj\Debug\Converter.csproj.CoreCompileInputs.cache
+D:\Users\adam\Source\Repos\converter\Converter\obj\Debug\converter.exe
+D:\Users\adam\Source\Repos\converter\Converter\obj\Debug\converter.pdb

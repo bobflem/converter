@@ -44,3 +44,14 @@ E:\Users\adam\source\repos\converter\Converter\obj\Release\Converter.csproj.Gene
 E:\Users\adam\source\repos\converter\Converter\obj\Release\Converter.csproj.CoreCompileInputs.cache
 E:\Users\adam\source\repos\converter\Converter\obj\Release\converter.exe
 E:\Users\adam\source\repos\converter\Converter\obj\Release\converter.pdb
+D:\Users\adam\Source\Repos\converter\Converter\bin\Release\converter.exe.config
+D:\Users\adam\Source\Repos\converter\Converter\bin\Release\converter.exe
+D:\Users\adam\Source\Repos\converter\Converter\bin\Release\converter.pdb
+D:\Users\adam\Source\Repos\converter\Converter\obj\Release\converter.Form1.resources
+D:\Users\adam\Source\Repos\converter\Converter\obj\Release\converter.wait.resources
+D:\Users\adam\Source\Repos\converter\Converter\obj\Release\converter.Properties.Resources.resources
+D:\Users\adam\Source\Repos\converter\Converter\obj\Release\converter.Resource1.resources
+D:\Users\adam\Source\Repos\converter\Converter\obj\Release\converter.csproj.GenerateResource.cache
+D:\Users\adam\Source\Repos\converter\Converter\obj\Release\converter.csproj.CoreCompileInputs.cache
+D:\Users\adam\Source\Repos\converter\Converter\obj\Release\converter.exe
+D:\Users\adam\Source\Repos\converter\Converter\obj\Release\converter.pdb

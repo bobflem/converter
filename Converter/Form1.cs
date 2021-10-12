@@ -29,11 +29,13 @@ namespace converter
 				textBox1.Text = File.FullName;
 			}
             if (textBox1.Text != "")
+            {
                 comboBox1.Enabled = true;
+                button2.BackColor = Color.LimeGreen;
+                button2.Enabled = true;
+            }
             if (comboBox1.Text == "")
                 comboBox1.SelectedIndex = 0;
-            button2.BackColor = Color.LimeGreen;
-            button2.Enabled = true;
         }
 
 		private void button2_Click(object sender, EventArgs e)
