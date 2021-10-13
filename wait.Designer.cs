@@ -1,4 +1,4 @@
-﻿namespace converter
+﻿namespace Converter
 {
     partial class wait
     {
