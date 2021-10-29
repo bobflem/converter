@@ -1,3 +1,3 @@
 works
 
-[download here](https://git.bolele.org/bolele/converter/-/jobs/artifacts/main/download?job=release)
+[download here](https://github.com/bobflem/converter/releases/download/1.0.1/Converter.exe)
